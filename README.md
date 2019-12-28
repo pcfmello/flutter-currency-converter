@@ -1,6 +1,6 @@
-# currency_converter
+# CURRENCY CONVERTER APP
 
-A simple currency converter devellped by Flutter
+A simple currency converter developed by Flutter.
 
 ## Getting Started
 
